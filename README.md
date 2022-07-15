@@ -22,7 +22,7 @@ Consists in develop a program that creates a model (in my case I choose a Nitend
 
 ## Technologies used:
 1. IDE
-    - [Visual Studio Code] 
+    - Visual Studio Code 
 2. OpenGL
 
 ## To run this project:
